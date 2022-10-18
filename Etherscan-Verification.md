@@ -40,7 +40,6 @@ npm install --save-dev hardhat
 In the same directory where you installed Hardhat run:
 
 
-
 ```bash
 npx hardhat
 
